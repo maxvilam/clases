@@ -1,6 +1,28 @@
-*{
-    color: #fff;
+* {
+  color: #fff;
+  border: 0;
 }
-.text-white{
-    color: #fff;
+
+.text-white {
+  color: #fff;
+}
+.format-parrafo {
+    text-align: center ;
+    background: #000;               
+}
+
+.fond-title-card{
+    background: cyan;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fond-card{
+    background: #000;
+    
+}
+
+.style-card{
+    background: cyan;
 }
