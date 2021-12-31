@@ -18,9 +18,25 @@ hr{
     background-color:#17A3B8;
 }
 
+.format-parrafos{
+    width: 90%;
+    margin: 0 auto;
+}
+
 .text-white {
   color: #fff;
 }
+
+.format-text-parrafo{
+    text-align: justify;
+}
+
+.format-icons{
+    background:#17A3B8;
+}
+
+
+
 .format-parrafo {
     margin: 0 0 0 0;
     border: 0;
@@ -37,15 +53,19 @@ hr{
 }
 
 .fond-card{
-    padding: 20px;
+    padding: 15px;
     background: #000;
-    
 }
 
 .style-card{
     background: #17A3B8;
-
 }
+
+.format-typeform{
+    padding: 35px;
+    background: #000;
+}
+
 .icon-cog {
     color: white;
   }
