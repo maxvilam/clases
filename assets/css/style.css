@@ -1,35 +1,54 @@
 * {
-  color: #fff;
-  border: 0;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.line-format{
+    background: #000;
+}
+
+hr{
+    margin: 0 auto;
+    padding: 1px;
+    height: 2px;
+    width: 85%;
+    align-content: center;
+    background-color:#17A3B8;
 }
 
 .text-white {
   color: #fff;
 }
 .format-parrafo {
+    margin: 0 0 0 0;
+    border: 0;
+    padding: 10px;
     text-align: center ;
     background: #000;               
 }
 
 .fond-title-card{
-    background: cyan;
+    background: #17A3B8;
     display:block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .fond-card{
+    padding: 20px;
     background: #000;
     
 }
 
 .style-card{
-    background: cyan;
+    background: #17A3B8;
 
 }
 .icon-cog {
     color: white;
   }
 .footer-bg{
-    background: cyan;
+    background: #17A3B8;
 }
